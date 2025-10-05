@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate PDF Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .instructions {
+            background: #e8f4fd;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .step {
+            margin: 10px 0;
+            padding: 10px;
+            background: #f8f9fa;
+            border-left: 4px solid #007bff;
+        }
+        .button {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 10px 5px;
+        }
+        .button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📄 Generate PDF Resume</h1>
+        
+        <div class="instructions">
+            <h3>Instructions to create PDF:</h3>
+            <div class="step">
+                <strong>Step 1:</strong> Click the button below to open your resume
+            </div>
+            <div class="step">
+                <strong>Step 2:</strong> In the new tab, press <kbd>Ctrl+P</kbd> (or <kbd>Cmd+P</kbd> on Mac)
+            </div>
+            <div class="step">
+                <strong>Step 3:</strong> Select "Save as PDF" as destination
+            </div>
+            <div class="step">
+                <strong>Step 4:</strong> Save the file as "Arun_Thakur_Resume.pdf" in the src folder
+            </div>
+        </div>
+        
+        <div style="text-align: center; margin: 30px 0;">
+            <a href="Arun_Thakur_Advanced_Resume.html" target="_blank" class="button">
+                📄 Open Resume
+            </a>
+            <a href="Arun_Thakur_Advanced_Resume.html?download=1" target="_blank" class="button">
+                ⬇️ Auto Download PDF
+            </a>
+        </div>
+        
+        <div style="background: #fff3cd; padding: 15px; border-radius: 5px; border-left: 4px solid #ffc107;">
+            <strong>💡 Tip:</strong> The "Auto Download PDF" button will automatically generate and download the PDF using the browser's built-in PDF generation.
+        </div>
+    </div>
+</body>
+</html>

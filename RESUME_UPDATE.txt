@@ -1,0 +1,29 @@
+RESUME UPDATE - Add Cupchairs Project
+
+Please update your resume (Arun_Thakur_ATS_Resume.docx) with the following information:
+
+PROJECTS SECTION - Replace "Awaaz" with "Cupchairs":
+
+**Cupchairs - Music Content Platform**
+- Developed a platform that transforms music into content and content into earnings
+- Implemented token ownership system allowing users to become joint owners of music content
+- Built earnings distribution mechanism benefiting musicians, photographers, and token holders
+- Created "In The Chair With..." interview series featuring artists from various genres
+- Technologies: React.js, Node.js, MongoDB, Web3, Blockchain
+- Live Demo: https://cupchairs.com
+
+KEY FEATURES:
+- Token-based ownership system
+- Automated earnings distribution
+- Artist interview platform
+- Content monetization system
+- Real-time payment processing
+
+This project demonstrates expertise in:
+- Web3 and blockchain integration
+- Music industry applications
+- Token economics
+- Content monetization
+- User engagement systems
+
+Please replace the Awaaz project entry in your resume with this Cupchairs information.
