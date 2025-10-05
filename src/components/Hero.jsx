@@ -118,7 +118,7 @@ export default function Hero(){
             >
               {/* Profile Image */}
               <img 
-                src="/profile.png"
+                src="/profile-v2.png"
                 alt="Arun Thakur"
                 className="w-full h-full object-cover relative z-20"
                 style={{ display: 'block' }}
